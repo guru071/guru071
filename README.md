@@ -1,281 +1,244 @@
-<!-- ========================================= -->
-<!--           GURUPRASATH PROFILE             -->
-<!-- ========================================= -->
+<!-- ===================================================== -->
+<!--              GURUPRASATH • GOAT'ECH                   -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00FFB2&height=220&section=header&text=GURUPRASATH&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20of%20GOAT%27ECH%20%E2%80%94%20Technology%20Builder&descAlignY=58&descSize=20" />
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,35:00B8FF,70:00E5A8,100:6A00FF&height=230&section=header&text=GURUPRASATH&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Founder%20of%20GOAT%27ECH&descAlignY=60&descSize=23" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Founder+%40+GOAT%27ECH;Building+Ideas+Into+Real+Products;AI+%E2%80%A2+SaaS+%E2%80%A2+Civic+Tech+%E2%80%A2+Developer+Tools;Real-Time+Systems+%E2%80%A2+Agritech+%E2%80%A2+Web3" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&repeat=true&width=900&lines=Founder+of+GOAT%27ECH;Greatest+Of+All+Time+Technology;Building+Ideas+Into+Projects;Creating.+Building.+Improving." />
 
 <br><br>
 
 <a href="https://goatech.tech">
-  <img src="https://img.shields.io/badge/GOAT%27ECH-Explore%20the%20Ecosystem-7F00FF?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_GOAT'ECH-Explore-6A00FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/guru071">
-  <img src="https://img.shields.io/badge/GitHub-guru071-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻_GitHub-guru071-00B8FF?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 👋 Hello, I'm GURUPRASATH
+
+### Founder • Builder • Creator
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<br>
+
+## 🧠 About Me
+
+I am **GURUPRASATH**, the founder of **GOAT'ECH**.
+
+### GOAT'ECH means:
+
+> ## **Greatest Of All Time Technology**
+
+I enjoy turning ideas into projects and continuously building new technology experiences.
+
+My work is based on one simple process:
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=6A00FF&center=true&vCenter=true&repeat=true&width=850&lines=💡+IDEA;↓;🛠️+BUILD;↓;🧪+IMPROVE;↓;🚀+CREATE" />
+
+</div>
+
+---
+
+# 🏢 GOAT'ECH
+
+<div align="center">
+
+<a href="https://goatech.tech">
+
+<img
+width="90%"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,50:00B8FF,100:00E5A8&height=90&text=GOAT%27ECH%20ECOSYSTEM&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+</a>
+
+<br><br>
+
+### Greatest Of All Time Technology
+
+A growing collection of ideas, projects and technology experiments.
+
+<br>
+
+<a href="https://goatech.tech">
+<img src="https://img.shields.io/badge/VISIT_GOAT'ECH-🌐_OPEN_WEBSITE-6A00FF?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
-# 👋 About Me
-
-## I'm **GURUPRASATH**
-
-I am a **Founder, Technology Builder, and Product Creator** passionate about transforming ambitious ideas into real technology products.
-
-I am the founder of:
-
-# 🚀 GOAT'ECH
-
-### Greatest Of All Time Technology
-
-GOAT'ECH is my technology ecosystem for building, experimenting, and launching products across multiple domains.
-
-My work is driven by a simple philosophy:
+# 🚀 MY PROJECTS
 
 <div align="center">
 
-# 💡 IDEA → 🛠️ BUILD → 🧪 TEST → 📈 IMPROVE → 🚀 PRODUCT → 🌍 IMPACT
-
-</div>
-
-I don't see technology as only writing code.
-
-For me, technology is about:
-
-- 💡 Finding ideas
-- 🔍 Identifying real-world problems
-- 🛠️ Building solutions
-- 🧪 Testing possibilities
-- 📈 Improving products
-- 🚀 Launching platforms
-- 🌍 Creating impact
-
----
-
-# 🏢 GOAT'ECH TECHNOLOGY ECOSYSTEM
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:00C6FF,100:00FFB2&height=3" width="100%" />
-
-### One Founder • Multiple Ideas • Growing Technology Ecosystem
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,50:00C6FF,100:007Fff&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A8,50:00B8FF,100:6A00FF&height=4" width="100%" />
 
 </div>
 
 <br>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-# 🏢 GOAT'ECH
-
-### Technology Ecosystem
-
-The central technology ecosystem behind my projects, experiments and products.
-
-GOAT'ECH represents my vision of building technology across multiple domains rather than limiting myself to a single type of product.
-
-<br>
-
-<a href="https://goatech.tech">
-<img src="https://img.shields.io/badge/EXPLORE-GOAT%27ECH-7F00FF?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+<div align="center">
 
 # 🛒 MaghGo
 
-### AI Commerce • SaaS
+### A GOAT'ECH Project
 
-A product focused on modern commerce and digital selling experiences.
-
-MaghGo is part of my vision to explore how AI, conversations and modern web technology can create easier digital commerce experiences.
+A project built as part of my growing technology ecosystem.
 
 <br>
 
 <a href="https://maghgo.goatech.tech">
-<img src="https://img.shields.io/badge/VISIT-MaghGo-00C6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN-MaghGo-00B8FF?style=for-the-badge" />
 </a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🗳️ TN Voting
+
+### A GOAT'ECH Project
+
+A project exploring digital voting experiences and workflows.
+
+<br>
+
+<a href="https://tnvoting.goatech.tech">
+<img src="https://img.shields.io/badge/OPEN-TN%20Voting-6A00FF?style=for-the-badge" />
+</a>
+
+</div>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🌊 Aqua
+
+### A GOAT'ECH Project
+
+Part of my technology project ecosystem.
+
+<br>
+
+<a href="https://aqua.goatech.tech">
+<img src="https://img.shields.io/badge/OPEN-Aqua-00E5A8?style=for-the-badge" />
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 💻 NOTHING IDE
+
+### A GOAT'ECH Project
+
+A project focused on the idea of a modern development environment.
+
+<br>
+
+<a href="https://github.com/guru071">
+<img src="https://img.shields.io/badge/VIEW-GitHub-00B8FF?style=for-the-badge" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
 </table>
 
----
-
-# 🚀 FEATURED PROJECTS
+<br>
 
 <table>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-## 🗳️ TN Voting
+## 🚦
 
-### Civic Technology
+# Traffic
 
-A technology project exploring modern digital voting workflows and real-time information systems.
+### Real-Time Verification
 
-### Areas Explored
-
-- 🔐 Authentication
-- 🗳️ Digital voting workflows
-- 📊 Real-time results
-- 👨‍💼 Administration systems
-- 📱 Accessible web experiences
+A project focused on real-time verification.
 
 <br>
 
-<a href="https://tnvoting.goatech.tech">
-<img src="https://img.shields.io/badge/EXPLORE-TN%20Voting-FF5F6D?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-6A00FF?style=flat-square" />
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-## 🌊 Aqua
+## 🌱
 
-### GOAT'ECH Technology Project
+# Agritech
 
-Aqua is part of my expanding technology ecosystem.
+### Technology Project
 
-Each project in GOAT'ECH represents experimentation, product development and the process of transforming ideas into usable technology.
+A project connected to agricultural technology.
 
 <br>
 
-<a href="https://aqua.goatech.tech">
-<img src="https://img.shields.io/badge/EXPLORE-Aqua-00D4AA?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-00E5A8?style=flat-square" />
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+## 🧾
 
-<td width="50%" valign="top">
+# Billing
 
-## 💻 NOTHING IDE
+### Technology Project
 
-### Developer Tools
+A billing-related project.
 
-A project focused on exploring modern development environments and developer experiences.
+<br>
 
-### Focus
-
-- 💻 Development workflows
-- ⚡ Productivity
-- 🛠️ Developer tools
-- 🧠 Modern software creation
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚦 Traffic Real-Time Verification
-
-### Real-Time Technology
-
-A project exploring technology for real-time information, verification and intelligent workflows.
-
-### Focus
-
-- ⚡ Live information
-- 🔍 Verification systems
-- 🚦 Smart technology
-- 📊 Real-time data
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌱 Agritech
-
-### Agricultural Technology
-
-Exploring how modern digital technology can contribute to agricultural solutions.
-
-### Focus
-
-- 🌱 Agricultural technology
-- 📊 Digital workflows
-- 🚜 Technology solutions
-- 💡 Innovation
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧾 Billing
-
-### Business Technology
-
-A project focused on digital billing and business workflows.
-
-### Focus
-
-- 🧾 Billing systems
-- 💼 Business workflows
-- ⚡ Automation
-- 📊 Digital management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔥 Flames ERC
-
-### Blockchain • Web3
-
-Exploring decentralized technology and blockchain-based systems.
-
-### Focus
-
-- ⛓️ Blockchain
-- 🔥 ERC technology
-- 🌐 Web3
-- 🧠 Decentralized systems
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 More Projects
-
-### Always Building
-
-GOAT'ECH is a growing ecosystem.
-
-I'm continuously experimenting with new ideas, technologies and product concepts.
-
-> **The next project always starts with an idea.**
+<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-00B8FF?style=flat-square" />
 
 </td>
 
@@ -283,94 +246,124 @@ I'm continuously experimenting with new ideas, technologies and product concepts
 
 </table>
 
----
-
-# 🧠 TECHNOLOGY DOMAINS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/SaaS-00C6FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Web%20Technology-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Civic%20Technology-FF5F6D?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Developer%20Tools-00C6FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Real--Time%20Systems-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Agritech-00D4AA?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Business%20Software-FF9F43?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Blockchain-7F00FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Web3-00C6FF?style=for-the-badge" />
-
-</div>
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guru071&show_icons=true&theme=transparent&hide_border=true&title_color=7F00FF&icon_color=00C6FF&text_color=ffffff" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guru071&theme=transparent&hide_border=true&ring=7F00FF&fire=00C6FF&currStreakLabel=ffffff" />
-
-</div>
-
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru071&layout=compact&theme=transparent&hide_border=true&title_color=00C6FF&text_color=ffffff" />
+<table>
+
+<tr>
+
+<td align="center">
+
+# 🔥 Flames ERC
+
+### A GOAT'ECH Project
+
+Part of my project ecosystem and technology exploration.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=1800&pause=500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&lines=🔥+Exploring+new+ideas...;🚀+Building+projects...;💡+Creating+technology..." />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🧭 MY BUILDER PROCESS
+# 🗂️ PROJECT ECOSYSTEM
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🏢
+
+### GOAT'ECH
+
+The central ecosystem.
+
+<a href="https://goatech.tech">Open →</a>
+
+</td>
+
+<td align="center">
+
+🛒
+
+### MaghGo
+
+GOAT'ECH Project.
+
+<a href="https://maghgo.goatech.tech">Open →</a>
+
+</td>
+
+<td align="center">
+
+🗳️
+
+### TN Voting
+
+GOAT'ECH Project.
+
+<a href="https://tnvoting.goatech.tech">Open →</a>
+
+</td>
+
+<td align="center">
+
+🌊
+
+### Aqua
+
+GOAT'ECH Project.
+
+<a href="https://aqua.goatech.tech">Open →</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💡 MY PROJECTS
+
+<div align="center">
 
 ```text
-┌─────────────────┐
-│       💡        │
-│      IDEA       │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│       🛠️        │
-│      BUILD      │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│       🧪        │
-│      TEST       │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│       📈        │
-│     IMPROVE     │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│       🚀        │
-│     PRODUCT     │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│       🌍        │
-│      IMPACT     │
-└─────────────────┘
+                        GURUPRASATH
+                            │
+                            ▼
+                        GOAT'ECH
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+       MaghGo           TN Voting          Aqua
+          │                 │                 │
+          └────────────┬────┴────┬────────────┘
+                       │         │
+                       ▼         ▼
+                  NOTHING IDE   Traffic
+                       │         │
+          ┌────────────┴─────────┴────────────┐
+          │                                    │
+          ▼                                    ▼
+       Agritech                            Billing
+          │
+          ▼
+      Flames ERC
