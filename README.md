@@ -20,13 +20,15 @@
 
 ---
 
-## 👋 Hello, I'm GURUPRASATH
-
-**Founder • Builder • Creator**
-
-I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology**. I enjoy turning ideas into software products, experimenting with new technology, and building polished digital experiences.
-
-> **GOAT'ECH — Greatest Of All Time Technology**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%91%8B%20Hello,%20I'm%20GURUPRASATH&fontSize=20&fontColor=111111" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=Founder+%E2%80%A2+Builder+%E2%80%A2+Creator" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=I+am+GURUPRASATH+D,+founder+and+CEO+of+GOAT'ECH+and+MAGH'S+Technology.;I+enjoy+turning+ideas+into+software+products.;Experimenting+with+new+technology+and+building+polished+digital+experiences." />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=30&text=GOAT'ECH%20%E2%80%94%20Greatest%20Of%20All%20Time%20Technology&fontSize=16&fontColor=c9a84c&stroke=c9a84c" />
+</div>
 
 <div align="center">
 
@@ -36,9 +38,11 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-## 🏢 GOAT'ECH
-
-**GOAT'ECH** is my technology ecosystem for software, products, experiments and digital tools.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%8F%A2%20GOAT'ECH&fontSize=20&fontColor=111111" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=GOAT'ECH+is+my+technology+ecosystem+for+software,+products,+and+tools." />
+</div>
 
 <div align="center">
 
@@ -55,7 +59,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# ⚡ TECHNICAL ARSENAL
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%E2%9A%A1%20TECHNICAL%20ARSENAL&fontSize=20&fontColor=111111" />
+</div>
 
 <div align="center">
 
@@ -65,7 +71,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# 🚀 PROJECT ECOSYSTEM
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
+</div>
 
 <table>
 <tr>
@@ -105,7 +113,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 </tr>
 </table>
 
-### More projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=🚦+Traffic+-+Real-time+verification;🌱+Agritech+-+Agricultural+technology;🧾+Billing+-+Billing+software;🔥+Flames+ERC+-+Technology+experimentation" />
@@ -113,7 +123,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# 🧠 MY BUILD PHILOSOPHY
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%A7%A0%20MY%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=111111" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
@@ -129,7 +141,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# ✍️ VISION & BLOG
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%E2%9C%8D%EF%B8%8F%20VISION%20%26%20BLOG&fontSize=20&fontColor=111111" />
+</div>
 
 <div align="center">
 
@@ -141,7 +155,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# 📊 GITHUB
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%93%8A%20GITHUB&fontSize=20&fontColor=111111" />
+</div>
 
 <div align="center">
 
@@ -152,7 +168,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ---
 
-# 🌐 CONNECT
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%8C%90%20CONNECT&fontSize=20&fontColor=111111" />
+</div>
 
 <div align="center">
 
@@ -171,7 +189,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 <br/><br/>
 
-**Build. Improve. Create.**
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=Build.+Improve.+Create." />
+</div>
 
 </div>
 
