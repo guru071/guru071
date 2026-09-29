@@ -204,3 +204,106 @@ A concept around a modern development environment.
 **Build. Improve. Create.**
 
 </div>
+
+<!-- ========================================================= -->
+<!--                     PREMIUM HERO                          -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img width="1664" alt="Premium Hero" src="assets/hero_gold.svg" />
+</p>
+
+<!-- ========================================================= -->
+<!--                    PROFILE INTRO                          -->
+<!-- ========================================================= -->
+
+<table align="center" width="96%">
+<tr>
+
+<td width="58%" valign="top">
+
+<h2>Engineering With Purpose</h2>
+
+<p>
+I design and build modern software systems across the
+<strong>frontend, backend, cloud, data, and AI layers.</strong>
+</p>
+
+<p>
+My focus is on turning complicated product requirements into
+clean, scalable, secure, and maintainable systems that are ready
+for real-world production environments under the <b>GOAT'ECH</b> ecosystem.
+</p>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<strong>Frontend</strong><br> <sub>React · Next.js · TypeScript</sub>
+
+</td>
+<td>
+
+<strong>Backend</strong><br> <sub>Python · Node.js · Express · NestJS</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Cloud</strong><br> <sub>AWS · Azure · Docker · Linux</sub>
+
+</td>
+<td>
+
+<strong>AI</strong><br> <sub>Gemini · RAG · Automation</sub>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="960" height="960" alt="Profile" src="assets/profile_image.svg" />
+
+</td>
+
+</tr>
+</table>
+
+<!-- ========================================================= -->
+<!--                    TECHNOLOGY MATRIX                      -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img width="1664" alt="Technology Matrix" src="assets/tech_matrix.svg" />
+</p>
+
+<!-- ========================================================= -->
+<!--                    LANGUAGE WALL                          -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img width="1664" alt="Language Wall" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,tailwind,html,css,fastapi,postgres,mysql,git,github,docker,linux&perline=8&theme=dark" />
+</p>
+
+<!-- ========================================================= -->
+<!--                  ARCHITECTURE                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img width="1664" alt="Architecture" src="assets/architecture.svg" />
+</p>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                       -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img width="1664" alt="Contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=guru071&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=fff3ad&area=true&hide_border=true" />
+</p>
