@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20GURUPRASATH&fontSize=20&fontColor=111111" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20GURUPRASATH&fontSize=20&fontColor=111111" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=18&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Founder+%E2%80%A2+Builder+%E2%80%A2+Creator" />
   <br/>
@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%8F%A2%20GOAT%27ECH&fontSize=20&fontColor=111111" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%8F%A2%20GOAT%27ECH&fontSize=20&fontColor=111111" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=2500&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=GOAT%27ECH+is+my+technology+ecosystem+for+software%2C+products%2C+and+tools." />
 </div>
@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%E2%9A%A1%20TECHNICAL%20ARSENAL&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%E2%9A%A1%20TECHNICAL%20ARSENAL&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -96,7 +96,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -106,25 +106,25 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%A7%A0%20MY%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%A7%A0%20MY%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=GOAT%27ECH&fontSize=20&fontColor=111111" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=GOAT%27ECH&fontSize=20&fontColor=111111" /><br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=3000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++%7C++++BUILD++++%7C++++EXPERIMENT" /><br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%E2%9C%8D%EF%B8%8F%20VISION%20%26%20BLOG&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%E2%9C%8D%EF%B8%8F%20VISION%20%26%20BLOG&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -138,7 +138,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%93%8A%20GITHUB&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%93%8A%20GITHUB&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -151,7 +151,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%8C%90%20CONNECT&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a6e27,50:ffffff,100:c9a84c&height=40&text=%F0%9F%8C%90%20CONNECT&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
