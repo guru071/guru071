@@ -49,14 +49,9 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 </div>
 
 ### What I focus on
-
-- 🚀 Product development
-- 🌐 Web applications
-- 🤖 AI & automation
-- 🔧 Software engineering
-- 🎨 Modern UI/UX
-- 🧪 Technology experiments
-- 📱 Digital products
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Product+development;🌐+Web+applications;🤖+AI+&+automation;🔧+Software+engineering;🎨+Modern+UI/UX;🧪+Technology+experiments;📱+Digital+products" />
+</div>
 
 ---
 
@@ -76,24 +71,16 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 <tr>
 <td width="50%" valign="top">
 
-## 🛒 MaghGo
-
-GOAT'ECH project focused on building a modern digital product experience.
-
 <a href="https://maghgo.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN_MAGHGO-111111?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🛒+MaghGo;Modern+Digital+Product;Click+To+Open+→" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗳️ TN Voting
-
-A digital voting project exploring secure, transparent voting workflows.
-
 <a href="https://tnvoting.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN_TN_VOTING-c9a84c?style=for-the-badge&labelColor=111111" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🗳️+TN+Voting;Secure+Voting+Workflows;Click+To+Open+→" />
 </a>
 
 </td>
@@ -102,24 +89,16 @@ A digital voting project exploring secure, transparent voting workflows.
 <tr>
 <td width="50%" valign="top">
 
-## 🌊 Aqua
-
-A project within the GOAT'ECH technology ecosystem.
-
 <a href="https://aqua.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN_AQUA-c9a84c?style=for-the-badge&labelColor=111111" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🌊+Aqua;Technology+Ecosystem;Click+To+Open+→" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💻 Nothing IDE
-
-A concept around a modern development environment.
-
 <a href="https://github.com/guru071">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-111111?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=💻+Nothing+IDE;Modern+Development;Click+To+View+→" />
 </a>
 
 </td>
@@ -128,34 +107,25 @@ A concept around a modern development environment.
 
 ### More projects
 
-| Project | Focus |
-|---|---|
-| 🚦 **Traffic** | Real-time verification |
-| 🌱 **Agritech** | Agricultural technology |
-| 🧾 **Billing** | Billing software |
-| 🔥 **Flames ERC** | Technology experimentation |
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=🚦+Traffic+-+Real-time+verification;🌱+Agritech+-+Agricultural+technology;🧾+Billing+-+Billing+software;🔥+Flames+ERC+-+Technology+experimentation" />
+</div>
 
 ---
 
 # 🧠 MY BUILD PHILOSOPHY
 
-```text
-                         GURUPRASATH
-                              │
-                              ▼
-                          GOAT'ECH
-                              │
-               ┌──────────────┼──────────────┐
-               ▼              ▼              ▼
-             IDEA           BUILD         EXPERIMENT
-               │              │              │
-               └──────────────┼──────────────┘
-                              ▼
-                           IMPROVE
-                              │
-                              ▼
-                           CREATE
-```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=GOAT'ECH&fontSize=20&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=3000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++|++++BUILD++++|++++EXPERIMENT" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
+</div>
 
 ---
 
@@ -222,48 +192,11 @@ A concept around a modern development environment.
 
 <td width="58%" valign="top">
 
-<h2>Engineering With Purpose</h2>
-
-<p>
-I design and build modern software systems across the
-<strong>frontend, backend, cloud, data, and AI layers.</strong>
-</p>
-
-<p>
-My focus is on turning complicated product requirements into
-clean, scalable, secure, and maintainable systems that are ready
-for real-world production environments under <b>GOAT'ECH (MAGH'S Technology)</b>—my core group and unified company.
-</p>
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=3500&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Engineering+With+Purpose;Designing+modern+software+systems;Frontend,+Backend,+Cloud,+Data,+AI;Clean,+scalable,+secure+architecture" />
 <br>
-
-<table>
-<tr>
-<td>
-
-<strong>Frontend</strong><br> <sub>React · Next.js · TypeScript</sub>
-
-</td>
-<td>
-
-<strong>Backend</strong><br> <sub>Python · Node.js · Express · NestJS</sub>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<strong>Cloud</strong><br> <sub>AWS · Azure · Docker · Linux</sub>
-
-</td>
-<td>
-
-<strong>AI</strong><br> <sub>Gemini · RAG · Automation</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=Frontend:+React,+Next.js,+TypeScript;Backend:+Python,+Node.js,+Express;Cloud:+AWS,+Docker,+Linux;AI:+Gemini,+RAG,+Automation" />
+</div>
 
 </td>
 
