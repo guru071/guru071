@@ -21,13 +21,13 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%91%8B%20Hello,%20I'm%20GURUPRASATH&fontSize=20&fontColor=111111" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%91%8B%20Hello%2C%20I%27m%20GURUPRASATH&fontSize=20&fontColor=111111" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=Founder+%E2%80%A2+Builder+%E2%80%A2+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=18&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Founder+%E2%80%A2+Builder+%E2%80%A2+Creator" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=I+am+GURUPRASATH+D,+founder+and+CEO+of+GOAT'ECH+and+MAGH'S+Technology.;I+enjoy+turning+ideas+into+software+products.;Experimenting+with+new+technology+and+building+polished+digital+experiences." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=3000&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=I+am+GURUPRASATH+D%2C+founder+and+CEO+of+GOAT%27ECH+and+MAGH%27S+Technology.;I+enjoy+turning+ideas+into+software+products.;Experimenting+with+new+technology+and+building+polished+digital+experiences." />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=30&text=GOAT'ECH%20%E2%80%94%20Greatest%20Of%20All%20Time%20Technology&fontSize=16&fontColor=c9a84c&stroke=c9a84c" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=30&text=GOAT%27ECH%20%E2%80%94%20Greatest%20Of%20All%20Time%20Technology&fontSize=16&fontColor=c9a84c&stroke=c9a84c" />
 </div>
 
 <div align="center">
@@ -39,9 +39,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%8F%A2%20GOAT'ECH&fontSize=20&fontColor=111111" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%8F%A2%20GOAT%27ECH&fontSize=20&fontColor=111111" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=GOAT'ECH+is+my+technology+ecosystem+for+software,+products,+and+tools." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=2500&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=GOAT%27ECH+is+my+technology+ecosystem+for+software%2C+products%2C+and+tools." />
 </div>
 
 <div align="center">
@@ -54,13 +54,13 @@
 
 ### What I focus on
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Product+development;🌐+Web+applications;🤖+AI+%26+automation;🔧+Software+engineering;🎨+Modern+UI/UX;🧪+Technology+experiments;📱+Digital+products" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%9A%80+Product+development;%F0%9F%8C%90+Web+applications;%F0%9F%A4%96+AI+%26+automation;%F0%9F%94%A7+Software+engineering;%F0%9F%8E%A8+Modern+UI/UX;%F0%9F%A7%AA+Technology+experiments;%F0%9F%93%B1+Digital+products" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%E2%9A%A1%20TECHNICAL%20ARSENAL&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%E2%9A%A1%20TECHNICAL%20ARSENAL&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -72,65 +72,65 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
 
 <a href="https://maghgo.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🛒+MaghGo;Modern+Digital+Product;Click+To+Open+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=400&lines=%F0%9F%9B%92+MaghGo;Modern+Digital+Product;Click+To+Open+%E2%86%92" />
 </a>
 
 <a href="https://tnvoting.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🗳️+TN+Voting;Secure+Voting+Workflows;Click+To+Open+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=400&lines=%F0%9F%97%B3%EF%B8%8F+TN+Voting;Secure+Voting+Workflows;Click+To+Open+%E2%86%92" />
 </a>
 
 <a href="https://aqua.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🌊+Aqua;Technology+Ecosystem;Click+To+Open+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=400&lines=%F0%9F%8C%8A+Aqua;Technology+Ecosystem;Click+To+Open+%E2%86%92" />
 </a>
 
 <a href="https://github.com/guru071">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=💻+Nothing+IDE;Modern+Development;Click+To+View+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=400&lines=%F0%9F%92%BB+Nothing+IDE;Modern+Development;Click+To+View+%E2%86%92" />
 </a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=🚦+Traffic+-+Real-time+verification;🌱+Agritech+-+Agricultural+technology;🧾+Billing+-+Billing+software;🔥+Flames+ERC+-+Technology+experimentation" />
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%A7%A0%20MY%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=111111" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=GOAT'ECH&fontSize=20&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=3000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++%7C++++BUILD++++%7C++++EXPERIMENT" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=%F0%9F%9A%A6+Traffic+-+Real-time+verification;%F0%9F%8C%B1+Agritech+-+Agricultural+technology;%F0%9F%A7%BE+Billing+-+Billing+software;%F0%9F%94%A5+Flames+ERC+-+Technology+experimentation" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%E2%9C%8D%EF%B8%8F%20VISION%20%26%20BLOG&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%A7%A0%20MY%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=111111" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=GOAT%27ECH&fontSize=20&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=22&duration=3000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++%7C++++BUILD++++%7C++++EXPERIMENT" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%E2%9C%8D%EF%B8%8F%20VISION%20%26%20BLOG&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
 
 <a href="https://guruprasath.goatech.tech/blog">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2800&pause=900&color=c9a84c&center=true&vCenter=true&repeat=true&width=850&lines=Building+the+GOAT%27ECH+ecosystem;Creating+products+with+purpose;My+main+project+and+future+is+MaghGo" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=21&duration=2800&pause=900&color=c9a84c&center=true&vCenter=true&repeat=true&width=850&lines=Building+the+GOAT%27ECH+ecosystem;Creating+products+with+purpose;My+main+project+and+future+is+MaghGo" />
 </a>
 
 </div>
@@ -138,7 +138,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%93%8A%20GITHUB&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%93%8A%20GITHUB&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -151,7 +151,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%8C%90%20CONNECT&fontSize=20&fontColor=111111" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A8a6e27%2C50%3Affffff%2C100%3Ac9a84c&height=40&text=%F0%9F%8C%90%20CONNECT&fontSize=20&fontColor=111111" />
 </div>
 
 <div align="center">
@@ -172,7 +172,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=Build.+Improve.+Create." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=400&lines=Build.+Improve.+Create." />
 </div>
 
 </div>
@@ -192,9 +192,9 @@
 <div align="center">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=3500&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Engineering+With+Purpose;Designing+modern+software+systems;Frontend,+Backend,+Cloud,+Data,+AI;Clean,+scalable,+secure+architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=25&duration=3500&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Engineering+With+Purpose;Designing+modern+software+systems;Frontend%2C+Backend%2C+Cloud%2C+Data%2C+AI;Clean%2C+scalable%2C+secure+architecture" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=Frontend:+React,+Next.js,+TypeScript;Backend:+Python,+Node.js,+Express;Cloud:+AWS,+Docker,+Linux;AI:+Gemini,+RAG,+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Frontend%3A+React%2C+Next.js%2C+TypeScript;Backend%3A+Python%2C+Node.js%2C+Express;Cloud%3A+AWS%2C+Docker%2C+Linux;AI%3A+Gemini%2C+RAG%2C+Automation" />
 </div>
 
 <img width="960" height="960" alt="Profile" src="assets/profile_image.svg" />
