@@ -68,11 +68,7 @@
   
   
   
-    <!-- Shine overlay on the goat -->
-    <g mask="url(#shineMask)" opacity="0.5">
-      <ellipse cx="250" cy="300" rx="120" ry="140" fill="white" />
-    </g>
-  </g>
+
 
   <path fill="none" stroke="#c9a84c" stroke-opacity=".35" stroke-width="1.5">
     <animate attributeName="d" dur="9s" repeatCount="indefinite"
