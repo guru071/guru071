@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" width="1600" height="520">
+<defs>
+  <radialGradient id="g" cx="50%" cy="40%" r="75%">
+    <stop offset="0%" stop-color="#3a2b08"/>
+    <stop offset="45%" stop-color="#11100c"/>
+    <stop offset="100%" stop-color="#050505"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#7a5a12"/>
+    <stop offset="50%" stop-color="#fff3ad"/>
+    <stop offset="100%" stop-color="#c9a84c"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="12" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse">
+    <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
+  </pattern>
+</defs>
+
+<rect width="1600" height="520" fill="url(#g)"/>
+<rect width="1600" height="520" fill="url(#grid)"/>
+
+<g opacity=".55" filter="url(#glow)">
+  <circle cx="220" cy="120" r="2.5" fill="#fff3ad">
+    <animate attributeName="cy" values="120;70;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="410" cy="360" r="2" fill="#c9a84c">
+    <animate attributeName="cx" values="410;470;410" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".1;.9;.1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1220" cy="160" r="2.5" fill="#fff3ad">
+    <animate attributeName="cy" values="160;105;160" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1380" cy="370" r="2" fill="#c9a84c">
+    <animate attributeName="cx" values="1380;1320;1380" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".1;.8;.1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g fill="none" stroke="url(#gold)" stroke-opacity=".25">
+  <ellipse cx="800" cy="260" rx="680" ry="210">
+    <animateTransform attributeName="transform" type="rotate" from="0 800 260" to="360 800 260" dur="28s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="800" cy="260" rx="520" ry="160">
+    <animateTransform attributeName="transform" type="rotate" from="360 800 260" to="0 800 260" dur="22s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<path d="M0 455 Q400 385 800 455 T1600 455" fill="none" stroke="url(#gold)" stroke-opacity=".35" stroke-width="1.5">
+  <animate attributeName="d" dur="9s" repeatCount="indefinite"
+    values="M0 455 Q400 385 800 455 T1600 455;
+            M0 440 Q400 510 800 440 T1600 440;
+            M0 455 Q400 385 800 455 T1600 455"/>
+</path>
+
+<rect x="20" y="20" width="1560" height="480" rx="28" fill="none" stroke="url(#gold)" stroke-opacity=".32"/>
+</svg>

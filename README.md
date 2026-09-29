@@ -1,115 +1,62 @@
-<!-- ===================================================== -->
-<!--              GURUPRASATH • GOAT'ECH                   -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:fff3ad,100:c9a84c&height=230&section=header&text=GURUPRASATH%20D&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Founder%20and%20CEO%20of%20GOAT%27ECH%20%7C%20MAGH%27S&descAlignY=60&descSize=23" />
+<a href="https://goatech.tech">
+  <img src="hero.svg" width="100%" alt="GURUPRASATH D — GOAT'ECH"/>
+</a>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2500&pause=700&color=ffdf73&center=true&vCenter=true&repeat=true&width=900&lines=Founder+of+GOAT%27ECH+and+MAGH%27S;Greatest+Of+All+Time+Technology;Architecting+Digital+Excellence;Creating.+Building.+Improving." />
-
-<br><br>
+<br/>
 
 <a href="https://guruprasath.goatech.tech">
-<img src="https://img.shields.io/badge/🌟_Portfolio-Official-111111?style=for-the-badge&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logoColor=c9a84c" />
 </a>
-
 <a href="https://goatech.tech">
-<img src="https://img.shields.io/badge/🌐_GOAT'ECH-Explore-c9a84c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GOAT'ECH-c9a84c?style=for-the-badge&labelColor=111111" />
 </a>
-
 <a href="https://maghs.tech">
-<img src="https://img.shields.io/badge/🚀_MAGH'S-Technology-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MAGH'S-111111?style=for-the-badge" />
 </a>
-
-<a href="https://github.com/guru071">
-<img src="https://img.shields.io/badge/💻_GitHub-guru071-c9a84c?style=for-the-badge" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# 👋 Hello, I'm GURUPRASATH
-
-### Founder • Builder • Creator
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<br>
-
-## 🧠 About Me
-
-I am **GURUPRASATH D**, the Founder & CEO of **GOAT'ECH** and **MAGH'S Technology**.
-Leading **Team ™SPARROW**, I architect products tailored for uncompromising speed and aesthetic perfection.
-
-### GOAT'ECH means:
-
-> ## **Greatest Of All Time Technology**
-
-I enjoy turning ideas into projects and continuously building new technology experiences.
-
-My work is based on one simple process:
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=850&lines=💡+IDEA;↓;🛠️+BUILD;↓;🧪+IMPROVE;↓;🚀+CREATE" />
 
 </div>
 
 ---
 
-# 🏢 GOAT'ECH
+## 👋 Hello, I'm GURUPRASATH
+
+**Founder • Builder • Creator**
+
+I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology**. I enjoy turning ideas into software products, experimenting with new technology, and building polished digital experiences.
+
+> **GOAT'ECH — Greatest Of All Time Technology**
 
 <div align="center">
 
-<a href="https://goatech.tech">
-
-<img
-width="90%"
-src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=90&text=THE%20GOAT%27ECH%20ECOSYSTEM&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-
-</a>
-
-<br><br>
-
-### Greatest Of All Time Technology
-
-A growing collection of ideas, projects and technology experiments.
-
-<br>
-
-<a href="https://goatech.tech">
-<img src="https://img.shields.io/badge/VISIT_GOAT'ECH-🌐_OPEN_WEBSITE-c9a84c?style=for-the-badge" />
-</a>
+<img src="background.svg" width="100%" alt="Animated GOAT'ECH background"/>
 
 </div>
-
-
 
 ---
 
-# ✍️ VISION & BLOG
+## 🏢 GOAT'ECH
+
+**GOAT'ECH** is my technology ecosystem for software, products, experiments and digital tools.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=4" width="100%" />
-
-<br><br>
-
-<a href="https://guruprasath.goatech.tech/blog">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=Read+My+Latest+Article:;My+Main+Project+and+Future+is+MaghGo.;Building+the+core+of+the+GOAT'ECH+Ecosystem." />
+<a href="https://goatech.tech">
+<img src="https://img.shields.io/badge/EXPLORE_GOAT'ECH-c9a84c?style=for-the-badge&labelColor=111111" />
 </a>
 
 </div>
+
+### What I focus on
+
+- 🚀 Product development
+- 🌐 Web applications
+- 🤖 AI & automation
+- 🔧 Software engineering
+- 🎨 Modern UI/UX
+- 🧪 Technology experiments
+- 📱 Digital products
 
 ---
 
@@ -117,312 +64,143 @@ A growing collection of ideas, projects and technology experiments.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=4" width="100%" />
-
-<br><br>
-
-<p align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=c9a84c" />
-  <br>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=c9a84c" />
-  <br>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=c9a84c" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,tailwind,html,css,fastapi,postgres,mysql,git,github&perline=7" />
 
 </div>
 
 ---
 
-# 🚀 MY PROJECTS
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=4" width="100%" />
-
-</div>
-
-<br>
+# 🚀 PROJECT ECOSYSTEM
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-<div align="center">
+## 🛒 MaghGo
 
-# 🛒 MaghGo
-
-### A GOAT'ECH Project
-
-A project built as part of my growing technology ecosystem.
-
-<br>
+GOAT'ECH project focused on building a modern digital product experience.
 
 <a href="https://maghgo.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN-MaghGo-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_MAGHGO-111111?style=for-the-badge" />
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+## 🗳️ TN Voting
 
-# 🗳️ TN Voting
-
-### A GOAT'ECH Project
-
-A project exploring digital voting experiences and workflows.
-
-<br>
+A digital voting project exploring secure, transparent voting workflows.
 
 <a href="https://tnvoting.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN-TN%20Voting-c9a84c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_TN_VOTING-c9a84c?style=for-the-badge&labelColor=111111" />
 </a>
 
-</div>
-
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-<div align="center">
+## 🌊 Aqua
 
-# 🌊 Aqua
-
-### A GOAT'ECH Project
-
-Part of my technology project ecosystem.
-
-<br>
+A project within the GOAT'ECH technology ecosystem.
 
 <a href="https://aqua.goatech.tech">
-<img src="https://img.shields.io/badge/OPEN-Aqua-c9a84c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_AQUA-c9a84c?style=for-the-badge&labelColor=111111" />
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+## 💻 Nothing IDE
 
-<img src="https://img.shields.io/badge/NOTHING_IDE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c" />
-
-### A GOAT'ECH Project
-
-A project focused on the idea of a modern development environment.
-
-<br>
+A concept around a modern development environment.
 
 <a href="https://github.com/guru071">
-<img src="https://img.shields.io/badge/VIEW-GitHub-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-111111?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### More projects
+
+| Project | Focus |
+|---|---|
+| 🚦 **Traffic** | Real-time verification |
+| 🌱 **Agritech** | Agricultural technology |
+| 🧾 **Billing** | Billing software |
+| 🔥 **Flames ERC** | Technology experimentation |
+
+---
+
+# 🧠 MY BUILD PHILOSOPHY
+
+```text
+                         GURUPRASATH
+                              │
+                              ▼
+                          GOAT'ECH
+                              │
+               ┌──────────────┼──────────────┐
+               ▼              ▼              ▼
+             IDEA           BUILD         EXPERIMENT
+               │              │              │
+               └──────────────┼──────────────┘
+                              ▼
+                           IMPROVE
+                              │
+                              ▼
+                           CREATE
+```
+
+---
+
+# ✍️ VISION & BLOG
+
+<div align="center">
+
+<a href="https://guruprasath.goatech.tech/blog">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2800&pause=900&color=c9a84c&center=true&vCenter=true&repeat=true&width=850&lines=Building+the+GOAT%27ECH+ecosystem;Creating+products+with+purpose;My+main+project+and+future+is+MaghGo" />
 </a>
 
 </div>
 
-</td>
+---
 
-</tr>
-
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 🚦
-
-# Traffic
-
-### Real-Time Verification
-
-A project focused on real-time verification.
-
-<br>
-
-<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-c9a84c?style=flat-square" />
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌱
-
-# Agritech
-
-### Technology Project
-
-A project connected to agricultural technology.
-
-<br>
-
-<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-c9a84c?style=flat-square" />
-
-</td>
-
-<td width="33%" align="center">
-
-## 🧾
-
-# Billing
-
-### Technology Project
-
-A billing-related project.
-
-<br>
-
-<img src="https://img.shields.io/badge/PROJECT-GOAT'ECH-111111?style=flat-square" />
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+# 📊 GITHUB
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center">
-
-# 🔥 Flames ERC
-
-### A GOAT'ECH Project
-
-Part of my project ecosystem and technology exploration.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=1800&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=500&lines=🔥+Exploring+new+ideas...;🚀+Building+premium+projects...;💡+Creating+technology..." />
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=guru071&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=fff3ad&text_color=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guru071&hide_border=true&background=0d0d0d&ring=c9a84c&fire=fff3ad&currStreakLabel=c9a84c&sideLabels=ffffff&dates=888888" height="170"/>
 
 </div>
 
 ---
 
-# 🗂️ PROJECT ECOSYSTEM
+# 🌐 CONNECT
 
 <div align="center">
 
-<table>
+<a href="https://guruprasath.goatech.tech">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" />
+</a>
+<a href="https://goatech.tech">
+<img src="https://img.shields.io/badge/GOAT'ECH-c9a84c?style=for-the-badge&labelColor=111111" />
+</a>
+<a href="https://maghs.tech">
+<img src="https://img.shields.io/badge/MAGH'S-111111?style=for-the-badge" />
+</a>
+<a href="https://github.com/guru071">
+<img src="https://img.shields.io/badge/GitHub-c9a84c?style=for-the-badge&labelColor=111111" />
+</a>
 
-<tr>
+<br/><br/>
 
-<td align="center">
-
-🏢
-
-### GOAT'ECH
-
-The central ecosystem.
-
-<a href="https://goatech.tech">Open →</a>
-
-</td>
-
-<td align="center">
-
-🛒
-
-### MaghGo
-
-GOAT'ECH Project.
-
-<a href="https://maghgo.goatech.tech">Open →</a>
-
-</td>
-
-<td align="center">
-
-🗳️
-
-### TN Voting
-
-GOAT'ECH Project.
-
-<a href="https://tnvoting.goatech.tech">Open →</a>
-
-</td>
-
-<td align="center">
-
-🌊
-
-### Aqua
-
-GOAT'ECH Project.
-
-<a href="https://aqua.goatech.tech">Open →</a>
-
-</td>
-
-</tr>
-
-</table>
+**Build. Improve. Create.**
 
 </div>
-
----
-
-# 💡 MY PROJECTS
-
-<div align="center">
-
-```text
-                        GURUPRASATH
-                            │
-                            ▼
-                        GOAT'ECH
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-       MaghGo           TN Voting          Aqua
-          │                 │                 │
-          └────────────┬────┴────┬────────────┘
-                       │         │
-                       ▼         ▼
-                  NOTHING IDE   Traffic
-                       │         │
-          ┌────────────┴─────────┴────────────┐
-          │                                    │
-          ▼                                    ▼
-       Agritech                            Billing
-          │
-          ▼
-      Flames ERC
