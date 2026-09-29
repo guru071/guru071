@@ -21,8 +21,8 @@
   <img src="assets/header_analytics.svg?v=3" width="100%" />
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=guru071&show_icons=true&hide_border=true&bg_color=050505&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru071&layout=compact&hide_border=true&bg_color=050505&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guru071&show_icons=true&hide_border=true&bg_color=050505&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guru071&layout=compact&hide_border=true&bg_color=050505&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff" height="170"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guru071&hide_border=true&background=050505&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=ffffff&dates=ffffff" height="170"/>
 </div>
