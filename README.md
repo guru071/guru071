@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="assets/hero_gold.svg?v=3" width="100%" />
+  <img src="assets/hero_gold.svg?v=4" width="100%" />
   <br/><br/>
 
-  <img src="assets/profile_image.svg?v=3" width="300" height="300" />
+  <img src="assets/profile_image.svg?v=4" width="300" height="300" />
   <br/>
 
 
@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="assets/header_analytics.svg?v=3" width="100%" />
+  <img src="assets/header_analytics.svg?v=4" width="100%" />
   <br/><br/>
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guru071&show_icons=true&hide_border=true&bg_color=050505&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff" height="170"/>
@@ -30,17 +30,17 @@
 ---
 
 <div align="center">
-  <img src="assets/header_tech_arch.svg?v=3" width="100%" />
+  <img src="assets/header_tech_arch.svg?v=4" width="100%" />
   <br/><br/>
-  <img width="100%" alt="Technology Matrix" src="assets/tech_matrix.svg?v=3" />
+  <img width="100%" alt="Technology Matrix" src="assets/tech_matrix.svg?v=4" />
   <br/>
-  <img width="100%" alt="Architecture" src="assets/architecture.svg?v=3" />
+  <img width="100%" alt="Architecture" src="assets/architecture.svg?v=4" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/header_tools.svg?v=3" width="100%" />
+  <img src="assets/header_tools.svg?v=4" width="100%" />
   <br/><br/>
   <img alt="Language Wall" src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,nextjs,tailwind,fastapi,postgres,mysql,git,github,docker,linux,aws&perline=9&theme=dark" />
 </div>
@@ -48,26 +48,26 @@
 ---
 
 <div align="center">
-  <img src="assets/header_ecosystem.svg?v=3" width="100%" />
+  <img src="assets/header_ecosystem.svg?v=4" width="100%" />
   <br/><br/>
   
   <a href="https://maghgo.goatech.tech">
-    <img src="assets/card_maghgo.svg?v=3" width="100%" />
+    <img src="assets/card_maghgo.svg?v=4" width="100%" />
   </a>
   
   <a href="https://tnvoting.goatech.tech">
-    <img src="assets/card_tnvoting.svg?v=3" width="100%" />
+    <img src="assets/card_tnvoting.svg?v=4" width="100%" />
   </a>
   <br/>
   
   <a href="https://aqua.goatech.tech">
-    <img src="assets/card_aqua.svg?v=3" width="100%" />
+    <img src="assets/card_aqua.svg?v=4" width="100%" />
   </a>
   
   <a href="https://github.com/guru071/Nothing-IDE">
-    <img src="assets/card_nothingide.svg?v=3" width="100%" />
+    <img src="assets/card_nothingide.svg?v=4" width="100%" />
   </a>
 
   <br/><br/>
-  <img src="background.svg?v=3" width="100%" />
+  <img src="background.svg?v=4" width="100%" />
 </div>

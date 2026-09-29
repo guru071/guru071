@@ -2,7 +2,7 @@
 
   <defs>
     <!-- Liquid Glass Gold with active shine sweep -->
-    <linearGradient id="gold" x1="-100%" y1="0%" x2="200%" y2="0%">
+    <linearGradient id="gold_cardmagh" x1="-100%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#5c4314" />
       <stop offset="35%" stop-color="#c9a84c" />
       <stop offset="48%" stop-color="#f9ebbb" />
@@ -13,29 +13,29 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-0.5 0" to="0.5 0" dur="4s" repeatCount="indefinite" />
     </linearGradient>
     
-    <radialGradient id="g_bg" cx="50%" cy="50%" r="50%">
+    <radialGradient id="g_bg_cardmagh" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#110d05" />
       <stop offset="100%" stop-color="#050505" />
     </radialGradient>
     
-    <filter id="bg_glow">
+    <filter id="bg_glow_cardmagh">
       <feGaussianBlur stdDeviation="12" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     
-    <pattern id="grid_bg" width="55" height="55" patternUnits="userSpaceOnUse">
+    <pattern id="grid_bg_cardmagh" width="55" height="55" patternUnits="userSpaceOnUse">
       <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
     </pattern>
     
     
     <!-- Goat Face Gradients -->
-    <linearGradient id="goatGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="goatGoldGrad_cardmagh" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#f0c060" />
       <stop offset="50%" stop-color="#c9a84c" />
       <stop offset="100%" stop-color="#a8862a" />
     </linearGradient>
 
-    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="shineGrad_cardmagh" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="transparent" />
       <stop offset="40%" stop-color="transparent" />
       <stop offset="50%" stop-color="rgba(255,255,255,0.8)" />
@@ -44,7 +44,7 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="2 0" dur="4s" repeatCount="indefinite" />
     </linearGradient>
 
-    <filter id="goatGlow">
+    <filter id="goatGlow_cardmagh">
       <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -52,15 +52,15 @@
       </feMerge>
     </filter>
 
-    <mask id="shineMask">
-      <rect width="100%" height="100%" fill="url(#shineGrad)" />
+    <mask id="shineMask_cardmagh">
+      <rect width="100%" height="100%" fill="url(#shineGrad_cardmagh)" />
     </mask>
 
   </defs>
 
-  <rect width="896" height="216" x="2" y="2" fill="url(#g_bg)" rx="16" stroke="url(#gold)" stroke-width="1.5" />
-  <rect width="896" height="216" x="2" y="2" fill="url(#grid_bg)" rx="16" />
-  <g id="spark_anim">
+  <rect width="896" height="216" x="2" y="2" fill="url(#g_bg_cardmagh)" rx="16" stroke="url(#gold_cardmagh)" stroke-width="1.5" />
+  <rect width="896" height="216" x="2" y="2" fill="url(#grid_bg_cardmagh)" rx="16" />
+  <g id="spark_anim_cardmagh">
     <circle cx="16.2%" cy="61.1%" r="0.5" fill="#ffffff" opacity="0.11">
       <animate attributeName="opacity" values="0.11;0.75;0.11" dur="6.6s" repeatCount="indefinite" begin="3.0s"/>
     </circle>
@@ -247,61 +247,61 @@
   
   <!-- === GOAT FACE === -->
   <g class="goat-face" opacity="0.06" transform="translate(362.5, 5.0) scale(0.35)">
-    <g filter="url(#goatGlow)">
+    <g filter="url(#goatGlow_cardmagh)">
       <!-- Left Horn -->
-      <path d="M 155 200 Q 120 120 90 50 Q 85 35 100 40 Q 130 55 150 100 Q 165 140 170 185" fill="none" stroke="url(#goatGoldGrad)" stroke-width="12" stroke-linecap="round" />
+      <path d="M 155 200 Q 120 120 90 50 Q 85 35 100 40 Q 130 55 150 100 Q 165 140 170 185" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="12" stroke-linecap="round" />
       <!-- Right Horn -->
-      <path d="M 345 200 Q 380 120 410 50 Q 415 35 400 40 Q 370 55 350 100 Q 335 140 330 185" fill="none" stroke="url(#goatGoldGrad)" stroke-width="12" stroke-linecap="round" />
+      <path d="M 345 200 Q 380 120 410 50 Q 415 35 400 40 Q 370 55 350 100 Q 335 140 330 185" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="12" stroke-linecap="round" />
       <!-- Left Ear -->
-      <path d="M 145 210 Q 90 195 70 230 Q 60 260 100 260 Q 130 258 155 240" fill="url(#goatGoldGrad)" opacity="0.7" />
+      <path d="M 145 210 Q 90 195 70 230 Q 60 260 100 260 Q 130 258 155 240" fill="url(#goatGoldGrad_cardmagh)" opacity="0.7" />
       <!-- Right Ear -->
-      <path d="M 355 210 Q 410 195 430 230 Q 440 260 400 260 Q 370 258 345 240" fill="url(#goatGoldGrad)" opacity="0.7" />
+      <path d="M 355 210 Q 410 195 430 230 Q 440 260 400 260 Q 370 258 345 240" fill="url(#goatGoldGrad_cardmagh)" opacity="0.7" />
       <!-- Head -->
-      <ellipse cx="250" cy="300" rx="120" ry="140" fill="url(#goatGoldGrad)" opacity="0.5" />
+      <ellipse cx="250" cy="300" rx="120" ry="140" fill="url(#goatGoldGrad_cardmagh)" opacity="0.5" />
       <!-- Forehead ridge -->
-      <path d="M 170 230 Q 250 200 330 230" fill="none" stroke="url(#goatGoldGrad)" stroke-width="4" opacity="0.6" />
+      <path d="M 170 230 Q 250 200 330 230" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="4" opacity="0.6" />
       <!-- Left Eye -->
       <ellipse cx="200" cy="280" rx="22" ry="16" fill="#000" opacity="0.9" />
-      <ellipse cx="205" cy="278" rx="8" ry="8" fill="url(#goatGoldGrad)" opacity="0.9" />
+      <ellipse cx="205" cy="278" rx="8" ry="8" fill="url(#goatGoldGrad_cardmagh)" opacity="0.9" />
       <ellipse cx="207" cy="276" rx="3" ry="3" fill="#fff" opacity="0.8" />
       <!-- Right Eye -->
       <ellipse cx="300" cy="280" rx="22" ry="16" fill="#000" opacity="0.9" />
-      <ellipse cx="295" cy="278" rx="8" ry="8" fill="url(#goatGoldGrad)" opacity="0.9" />
+      <ellipse cx="295" cy="278" rx="8" ry="8" fill="url(#goatGoldGrad_cardmagh)" opacity="0.9" />
       <ellipse cx="293" cy="276" rx="3" ry="3" fill="#fff" opacity="0.8" />
       <!-- Nose bridge -->
-      <path d="M 250 295 L 250 340" stroke="url(#goatGoldGrad)" stroke-width="3" opacity="0.4" />
+      <path d="M 250 295 L 250 340" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="3" opacity="0.4" />
       <!-- Snout / Muzzle -->
-      <ellipse cx="250" cy="370" rx="55" ry="40" fill="url(#goatGoldGrad)" opacity="0.35" />
+      <ellipse cx="250" cy="370" rx="55" ry="40" fill="url(#goatGoldGrad_cardmagh)" opacity="0.35" />
       <!-- Nostrils -->
       <ellipse cx="232" cy="365" rx="8" ry="5" fill="#000" opacity="0.7" />
       <ellipse cx="268" cy="365" rx="8" ry="5" fill="#000" opacity="0.7" />
       <!-- Mouth -->
       <path d="M 230 385 Q 250 398 270 385" fill="none" stroke="#000" stroke-width="2.5" opacity="0.5" stroke-linecap="round" />
       <!-- Beard -->
-      <path d="M 240 415 Q 235 460 225 500 Q 222 515 230 510 Q 240 495 245 470" fill="none" stroke="url(#goatGoldGrad)" stroke-width="5" stroke-linecap="round" opacity="0.5" />
-      <path d="M 250 420 Q 250 470 250 520 Q 250 535 255 520 Q 255 470 252 430" fill="none" stroke="url(#goatGoldGrad)" stroke-width="6" stroke-linecap="round" opacity="0.6" />
-      <path d="M 260 415 Q 265 460 275 500 Q 278 515 270 510 Q 260 495 255 470" fill="none" stroke="url(#goatGoldGrad)" stroke-width="5" stroke-linecap="round" opacity="0.5" />
+      <path d="M 240 415 Q 235 460 225 500 Q 222 515 230 510 Q 240 495 245 470" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="5" stroke-linecap="round" opacity="0.5" />
+      <path d="M 250 420 Q 250 470 250 520 Q 250 535 255 520 Q 255 470 252 430" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="6" stroke-linecap="round" opacity="0.6" />
+      <path d="M 260 415 Q 265 460 275 500 Q 278 515 270 510 Q 260 495 255 470" fill="none" stroke="url(#goatGoldGrad_cardmagh)" stroke-width="5" stroke-linecap="round" opacity="0.5" />
       <!-- Chin tuft -->
-      <path d="M 235 410 Q 250 430 265 410" fill="url(#goatGoldGrad)" opacity="0.3" />
+      <path d="M 235 410 Q 250 430 265 410" fill="url(#goatGoldGrad_cardmagh)" opacity="0.3" />
     </g>
 
     <!-- Shine overlay on the goat -->
-    <g mask="url(#shineMask)" opacity="0.5">
+    <g mask="url(#shineMask_cardmagh)" opacity="0.5">
       <ellipse cx="250" cy="300" rx="120" ry="140" fill="white" />
     </g>
   </g>
   
-  <rect width="6" height="150" x="25" y="35" fill="url(#gold)" rx="3" />
+  <rect width="6" height="150" x="25" y="35" fill="url(#gold_cardmagh)" rx="3" />
   
   <text x="50" y="65" font-family="'Space Grotesk', Arial, sans-serif" font-size="32" font-weight="900" fill="#ffffff">MaghGo Platform</text>
-  <text x="50" y="95" font-family="'Space Grotesk', Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#gold)">The Premier Digital Product by GOAT'ECH</text>
+  <text x="50" y="95" font-family="'Space Grotesk', Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#gold_cardmagh)">The Premier Digital Product by GOAT'ECH</text>
   
   <text x="50" y="130" font-family="Arial, sans-serif" font-size="15" fill="#cccccc" font-style="italic">A highly scalable, modern digital ecosystem driving next-generation user experiences.</text>
   <text x="50" y="165" font-family="Arial, sans-serif" font-size="14" fill="#a8862a" font-weight="bold">Core Tech: <tspan fill="#ffffff">Android, React, Python FastAPI, PostgreSQL</tspan></text>
   
   <!-- Interactive-looking Domain Badge on the Right -->
   <g transform="translate(630, 40)">
-    <rect width="230" height="45" fill="#111" rx="8" stroke="url(#gold)" stroke-width="1.5" />
-    <text x="115" y="27" font-family="monospace" font-size="13" font-weight="bold" fill="url(#gold)" text-anchor="middle">🔗 maghgo.goatech.tech</text>
+    <rect width="230" height="45" fill="#111" rx="8" stroke="url(#gold_cardmagh)" stroke-width="1.5" />
+    <text x="115" y="27" font-family="monospace" font-size="13" font-weight="bold" fill="url(#gold_cardmagh)" text-anchor="middle">🔗 maghgo.goatech.tech</text>
   </g>
 </svg>

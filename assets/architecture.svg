@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1664" height="600" viewBox="0 0 1664 600">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_architec" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050505" />
       <stop offset="100%" stop-color="#111111" />
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="gold_architec" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#5c4314" />
       <stop offset="30%" stop-color="#c9a84c" />
       <stop offset="48%" stop-color="#f9ebbb" />
@@ -13,33 +13,33 @@
       <stop offset="70%" stop-color="#c9a84c" />
       <stop offset="100%" stop-color="#5c4314" />
     </linearGradient>
-    <linearGradient id="glass" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="glass_architec" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="rgba(201,168,76,0.15)" />
       <stop offset="100%" stop-color="rgba(201,168,76,0.02)" />
     </linearGradient>
   
-    <radialGradient id="g_bg" cx="50%" cy="40%" r="75%">
+    <radialGradient id="g_bg_architec" cx="50%" cy="40%" r="75%">
       <stop offset="0%" stop-color="#3a2b08"/>
       <stop offset="45%" stop-color="#11100c"/>
       <stop offset="100%" stop-color="#050505"/>
     </radialGradient>
-    <filter id="bg_glow">
+    <filter id="bg_glow_architec">
       <feGaussianBlur stdDeviation="12" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <pattern id="grid_bg" width="55" height="55" patternUnits="userSpaceOnUse">
+    <pattern id="grid_bg_architec" width="55" height="55" patternUnits="userSpaceOnUse">
       <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
     </pattern>
   
     <!-- Goat Face Gradients -->
-    <linearGradient id="goatGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="goatGoldGrad_architec" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#f0c060" />
       <stop offset="50%" stop-color="#c9a84c" />
       <stop offset="100%" stop-color="#a8862a" />
     </linearGradient>
 
     <!-- Animated shine sweep -->
-    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="shineGrad_architec" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="transparent" />
       <stop offset="40%" stop-color="transparent" />
       <stop offset="50%" stop-color="rgba(255,255,255,0.8)" />
@@ -48,7 +48,7 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="2 0" dur="4s" repeatCount="indefinite" />
     </linearGradient>
 
-    <filter id="goatGlow">
+    <filter id="goatGlow_architec">
       <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -56,13 +56,13 @@
       </feMerge>
     </filter>
 
-    <mask id="shineMask">
-      <rect width="100%" height="100%" fill="url(#shineGrad)" />
+    <mask id="shineMask_architec">
+      <rect width="100%" height="100%" fill="url(#shineGrad_architec)" />
     </mask>
   </defs>
 
-  <rect width="1664" height="600" fill="url(#g_bg)" />
-  <rect width="1664" height="600" fill="url(#grid_bg)" />
+  <rect width="1664" height="600" fill="url(#g_bg_architec)" />
+  <rect width="1664" height="600" fill="url(#grid_bg_architec)" />
 
   
   
@@ -79,23 +79,23 @@
 
   
   <text x="832" y="80" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">SYSTEM ARCHITECTURE</text>
-  <path d="M 700 110 L 964 110" stroke="url(#gold)" stroke-width="4" />
+  <path d="M 700 110 L 964 110" stroke="url(#gold_architec)" stroke-width="4" />
   
   <!-- Client Layer -->
-  <rect x="232" y="180" width="1200" height="80" rx="16" fill="url(#glass)" stroke="url(#gold)" stroke-width="2" />
-  <text x="832" y="230" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold)" text-anchor="middle">Client &amp; Presentation Layer (React / Next.js / Tailwind)</text>
+  <rect x="232" y="180" width="1200" height="80" rx="16" fill="url(#glass_architec)" stroke="url(#gold_architec)" stroke-width="2" />
+  <text x="832" y="230" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold_architec)" text-anchor="middle">Client &amp; Presentation Layer (React / Next.js / Tailwind)</text>
   
-  <path d="M 832 260 L 832 320" stroke="url(#gold)" stroke-width="4" stroke-dasharray="10 10" />
-  <polygon points="822,310 842,310 832,325" fill="url(#gold)" />
+  <path d="M 832 260 L 832 320" stroke="url(#gold_architec)" stroke-width="4" stroke-dasharray="10 10" />
+  <polygon points="822,310 842,310 832,325" fill="url(#gold_architec)" />
 
   <!-- API Layer -->
-  <rect x="232" y="330" width="1200" height="80" rx="16" fill="url(#glass)" stroke="url(#gold)" stroke-width="2" />
-  <text x="832" y="380" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold)" text-anchor="middle">API &amp; Business Logic (Node.js / Python / FastAPI)</text>
+  <rect x="232" y="330" width="1200" height="80" rx="16" fill="url(#glass_architec)" stroke="url(#gold_architec)" stroke-width="2" />
+  <text x="832" y="380" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold_architec)" text-anchor="middle">API &amp; Business Logic (Node.js / Python / FastAPI)</text>
   
-  <path d="M 832 410 L 832 470" stroke="url(#gold)" stroke-width="4" stroke-dasharray="10 10" />
-  <polygon points="822,460 842,460 832,475" fill="url(#gold)" />
+  <path d="M 832 410 L 832 470" stroke="url(#gold_architec)" stroke-width="4" stroke-dasharray="10 10" />
+  <polygon points="822,460 842,460 832,475" fill="url(#gold_architec)" />
 
   <!-- Data & Infrastructure Layer -->
-  <rect x="232" y="480" width="1200" height="80" rx="16" fill="url(#glass)" stroke="url(#gold)" stroke-width="2" />
-  <text x="832" y="530" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold)" text-anchor="middle">Data &amp; Cloud Infrastructure (PostgreSQL / AWS / Docker)</text>
+  <rect x="232" y="480" width="1200" height="80" rx="16" fill="url(#glass_architec)" stroke="url(#gold_architec)" stroke-width="2" />
+  <text x="832" y="530" font-family="Arial" font-size="28" font-weight="bold" fill="url(#gold_architec)" text-anchor="middle">Data &amp; Cloud Infrastructure (PostgreSQL / AWS / Docker)</text>
 </svg>

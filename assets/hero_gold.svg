@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1664" height="400" viewBox="0 0 1664 400">
   <defs>
     <!-- Liquid Glass Gold with active shine sweep -->
-    <linearGradient id="gold" x1="-100%" y1="0%" x2="200%" y2="0%">
+    <linearGradient id="gold_herogold" x1="-100%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#5c4314" />
       <stop offset="35%" stop-color="#c9a84c" />
       <stop offset="48%" stop-color="#f9ebbb" />
@@ -12,27 +12,27 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-0.5 0" to="0.5 0" dur="4s" repeatCount="indefinite" />
     </linearGradient>
     
-    <radialGradient id="g_bg" cx="50%" cy="40%" r="75%">
+    <radialGradient id="g_bg_herogold" cx="50%" cy="40%" r="75%">
       <stop offset="0%" stop-color="#3a2b08"/>
       <stop offset="45%" stop-color="#11100c"/>
       <stop offset="100%" stop-color="#050505"/>
     </radialGradient>
     
-    <filter id="bg_glow">
+    <filter id="bg_glow_herogold">
       <feGaussianBlur stdDeviation="12" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     
-    <pattern id="grid_bg" width="55" height="55" patternUnits="userSpaceOnUse">
+    <pattern id="grid_bg_herogold" width="55" height="55" patternUnits="userSpaceOnUse">
       <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
     </pattern>
 
-    <clipPath id="heroPhotoClip"><circle cx="250" cy="200" r="120"/></clipPath>
+    <clipPath id="heroPhotoClip_herogold"><circle cx="250" cy="200" r="120"/></clipPath>
   </defs>
 
-  <rect width="1664" height="400" fill="url(#g_bg)" rx="16" />
-  <rect width="1664" height="400" fill="url(#grid_bg)" rx="16" />
-  <g id="spark_anim">
+  <rect width="1664" height="400" fill="url(#g_bg_herogold)" rx="16" />
+  <rect width="1664" height="400" fill="url(#grid_bg_herogold)" rx="16" />
+  <g id="spark_anim_herogold">
     <circle cx="14.9%" cy="83.4%" r="1.0" fill="#fff3ad" opacity="0.12">
       <animate attributeName="opacity" values="0.12;0.76;0.12" dur="4.3s" repeatCount="indefinite" begin="2.5s"/>
     </circle>
@@ -798,20 +798,20 @@
   </path>
   
   <!-- Glass Panel Container -->
-  <rect x="50" y="50" width="1564" height="300" rx="16" fill="rgba(0,0,0,0.4)" stroke="url(#gold)" stroke-width="2" />
+  <rect x="50" y="50" width="1564" height="300" rx="16" fill="rgba(0,0,0,0.4)" stroke="url(#gold_herogold)" stroke-width="2" />
   
   <!-- Profile Photo (Using tiny Base64 so it won't break) -->
-  <image href="data:image/jpeg;base64,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" x="130" y="80" width="240" height="240" clip-path="url(#heroPhotoClip)" preserveAspectRatio="xMidYMid slice" opacity="0.95" />
+  <image href="data:image/jpeg;base64,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" x="130" y="80" width="240" height="240" clip-path="url(#heroPhotoClip_herogold)" preserveAspectRatio="xMidYMid slice" opacity="0.95" />
   
-  <circle cx="250" cy="200" r="120" fill="none" stroke="url(#gold)" stroke-width="6" />
-  <circle cx="250" cy="200" r="130" fill="none" stroke="url(#gold)" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="10 15" />
+  <circle cx="250" cy="200" r="120" fill="none" stroke="url(#gold_herogold)" stroke-width="6" />
+  <circle cx="250" cy="200" r="130" fill="none" stroke="url(#gold_herogold)" stroke-width="1" stroke-opacity="0.5" stroke-dasharray="10 15" />
   
   <!-- Single Clean Text Block -->
   <text x="450" y="150" font-family="'Space Grotesk', Arial, sans-serif" font-size="75" font-weight="900" fill="#ffffff">GURUPRASATH D</text>
-  <text x="450" y="210" font-family="'Space Grotesk', Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#gold)">Founder &amp; CEO of GOAT'ECH and MAGH'S</text>
+  <text x="450" y="210" font-family="'Space Grotesk', Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#gold_herogold)">Founder &amp; CEO of GOAT'ECH and MAGH'S</text>
   <text x="450" y="260" font-family="'Space Grotesk', monospace" font-size="22" font-weight="600" fill="#cccccc" letter-spacing="4">IDEA | BUILD | EXPERIMENT</text>
   
   <!-- Developer Badge -->
-  <rect x="450" y="280" width="260" height="40" rx="8" fill="#111" stroke="url(#gold)" stroke-width="2" />
+  <rect x="450" y="280" width="260" height="40" rx="8" fill="#111" stroke="url(#gold_herogold)" stroke-width="2" />
   <text x="580" y="306" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Full-Stack Software Architect</text>
 </svg>
