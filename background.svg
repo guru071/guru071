@@ -5,17 +5,19 @@
     <stop offset="45%" stop-color="#11100c"/>
     <stop offset="100%" stop-color="#050505"/>
   </radialGradient>
-  <linearGradient id="gold" x1="0" x2="1">
-    <stop offset="0%" stop-color="#7a5a12"/>
-    <stop offset="50%" stop-color="#fff3ad"/>
-    <stop offset="100%" stop-color="#c9a84c"/>
-  </linearGradient>
+  <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b8860b" />
+      <stop offset="30%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#ffd700" />
+      <stop offset="100%" stop-color="#b8860b" />
+    </linearGradient>
   <filter id="glow">
     <feGaussianBlur stdDeviation="12" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
   <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse">
-    <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
+    <path d="M55 0H0V55" fill="none" stroke="#ffd700" stroke-opacity=".10"/>
   </pattern>
 </defs>
 
@@ -23,19 +25,19 @@
 <rect width="1600" height="520" fill="url(#grid)"/>
 
 <g opacity=".55" filter="url(#glow)">
-  <circle cx="220" cy="120" r="2.5" fill="#fff3ad">
+  <circle cx="220" cy="120" r="2.5" fill="#ffffff">
     <animate attributeName="cy" values="120;70;120" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="410" cy="360" r="2" fill="#c9a84c">
+  <circle cx="410" cy="360" r="2" fill="#ffd700">
     <animate attributeName="cx" values="410;470;410" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".1;.9;.1" dur="7s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1220" cy="160" r="2.5" fill="#fff3ad">
+  <circle cx="1220" cy="160" r="2.5" fill="#ffffff">
     <animate attributeName="cy" values="160;105;160" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1380" cy="370" r="2" fill="#c9a84c">
+  <circle cx="1380" cy="370" r="2" fill="#ffd700">
     <animate attributeName="cx" values="1380;1320;1380" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".1;.8;.1" dur="8s" repeatCount="indefinite"/>
   </circle>
@@ -59,11 +61,11 @@
 
 
 <g font-family="'Space Grotesk', 'Inter', system-ui, sans-serif">
-  <text x="800" y="240" font-size="85" font-weight="800" fill="#fff3ad" text-anchor="middle" letter-spacing="4" filter="url(#glow)">
+  <text x="800" y="240" font-size="85" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4" filter="url(#glow)">
     GOAT'ECH
     <animate attributeName="y" values="240;225;240" dur="4s" repeatCount="indefinite"/>
   </text>
-  <text x="800" y="240" font-size="85" font-weight="800" fill="#c9a84c" text-anchor="middle" letter-spacing="4">
+  <text x="800" y="240" font-size="85" font-weight="800" fill="#ffd700" text-anchor="middle" letter-spacing="4">
     GOAT'ECH
     <animate attributeName="y" values="240;225;240" dur="4s" repeatCount="indefinite"/>
   </text>
@@ -74,7 +76,7 @@
     <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
   </text>
   
-  <text x="800" y="375" font-size="18" font-weight="400" fill="#c9a84c" text-anchor="middle" letter-spacing="2" opacity="0.8">
+  <text x="800" y="375" font-size="18" font-weight="400" fill="#ffd700" text-anchor="middle" letter-spacing="2" opacity="0.8">
     BUILD. IMPROVE. CREATE.
     <animate attributeName="y" values="375;360;375" dur="4s" repeatCount="indefinite"/>
   </text>
