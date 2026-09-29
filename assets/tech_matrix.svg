@@ -13,8 +13,50 @@
       <stop offset="0%" stop-color="rgba(255,255,255,0.05)" />
       <stop offset="100%" stop-color="rgba(201,168,76,0.05)" />
     </linearGradient>
+  
+    <radialGradient id="g_bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#3a2b08"/>
+      <stop offset="45%" stop-color="#11100c"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+    <filter id="bg_glow">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid_bg" width="55" height="55" patternUnits="userSpaceOnUse">
+      <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
+    </pattern>
   </defs>
-  <rect width="1664" height="600" fill="url(#bg)" />
+
+  <rect width="1664" height="600" fill="url(#g_bg)" />
+  <rect width="1664" height="600" fill="url(#grid_bg)" />
+
+  <g opacity=".55" filter="url(#bg_glow)">
+    <circle cx="15%" cy="25%" r="2.5" fill="#fff3ad">
+      <animate attributeName="cy" values="25%;15%;25%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25%" cy="75%" r="2" fill="#c9a84c">
+      <animate attributeName="cx" values="25%;30%;25%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.9;.1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="75%" cy="30%" r="2.5" fill="#fff3ad">
+      <animate attributeName="cy" values="30%;20%;30%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="85%" cy="70%" r="2" fill="#c9a84c">
+      <animate attributeName="cx" values="85%;80%;85%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.8;.1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <path fill="none" stroke="#c9a84c" stroke-opacity=".35" stroke-width="1.5">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 510.0 Q416.0 450.0 832.0 510.0 T1664.0 510.0;
+              M0 480.0 Q416.0 570.0 832.0 480.0 T1664.0 480.0;
+              M0 510.0 Q416.0 450.0 832.0 510.0 T1664.0 510.0"/>
+  </path>
+
   
   <text x="832" y="100" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">TECHNOLOGY MATRIX</text>
   <path d="M 732 130 L 932 130" stroke="url(#gold)" stroke-width="4" />

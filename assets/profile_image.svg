@@ -13,8 +13,50 @@
       <feGaussianBlur stdDeviation="25" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
+  
+    <radialGradient id="g_bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#3a2b08"/>
+      <stop offset="45%" stop-color="#11100c"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+    <filter id="bg_glow">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid_bg" width="55" height="55" patternUnits="userSpaceOnUse">
+      <path d="M55 0H0V55" fill="none" stroke="#c9a84c" stroke-opacity=".10"/>
+    </pattern>
   </defs>
-  <rect width="960" height="960" fill="url(#bg)" rx="48" stroke="url(#gold)" stroke-width="4" />
+
+  <rect width="960" height="960" fill="url(#g_bg)" rx="48" stroke="url(#gold)" stroke-width="4" />
+  <rect width="960" height="960" fill="url(#grid_bg)" rx="48"   />
+
+  <g opacity=".55" filter="url(#bg_glow)">
+    <circle cx="15%" cy="25%" r="2.5" fill="#fff3ad">
+      <animate attributeName="cy" values="25%;15%;25%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="25%" cy="75%" r="2" fill="#c9a84c">
+      <animate attributeName="cx" values="25%;30%;25%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.9;.1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="75%" cy="30%" r="2.5" fill="#fff3ad">
+      <animate attributeName="cy" values="30%;20%;30%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="85%" cy="70%" r="2" fill="#c9a84c">
+      <animate attributeName="cx" values="85%;80%;85%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.8;.1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <path fill="none" stroke="#c9a84c" stroke-opacity=".35" stroke-width="1.5">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 816.0 Q240.0 720.0 480.0 816.0 T960.0 816.0;
+              M0 768.0 Q240.0 912.0 480.0 768.0 T960.0 768.0;
+              M0 816.0 Q240.0 720.0 480.0 816.0 T960.0 816.0"/>
+  </path>
+
   
   <circle cx="480" cy="480" r="300" fill="none" stroke="url(#gold)" stroke-width="2" stroke-dasharray="10 15" opacity="0.5" />
   <circle cx="480" cy="480" r="220" fill="none" stroke="url(#gold)" stroke-width="6" filter="url(#glow)" />
