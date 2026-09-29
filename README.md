@@ -3,6 +3,10 @@
   <img src="assets/hero_gold.svg?v=3" width="100%" />
   <br/><br/>
 
+  <img src="assets/profile_image.svg?v=3" width="300" height="300" />
+  <br/>
+
+
   <p>
     <a href="https://guruprasath.goatech.tech"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=c9a84c&labelColor=111111" /></a>
     <a href="https://goatech.tech"><img src="https://img.shields.io/badge/GOAT%27ECH-c9a84c?style=for-the-badge&labelColor=111111" /></a>
