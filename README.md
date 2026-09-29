@@ -53,20 +53,20 @@
   <br/><br/>
   
   <a href="https://maghgo.goatech.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=350&lines=%F0%9F%9B%92+MaghGo;Premium+Product;Click+To+Open+%E2%86%92" />
+    <img src="assets/card_maghgo.svg" width="100%" />
   </a>
   
   <a href="https://tnvoting.goatech.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=350&lines=%F0%9F%97%B3%EF%B8%8F+TN+Voting;Secure+Systems;Click+To+Open+%E2%86%92" />
+    <img src="assets/card_tnvoting.svg" width="100%" />
   </a>
   <br/>
   
   <a href="https://aqua.goatech.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=350&lines=%F0%9F%8C%8A+Aqua;Hackathon+Project;Click+To+Open+%E2%86%92" />
+    <img src="assets/card_aqua.svg" width="100%" />
   </a>
   
   <a href="https://github.com/guru071/Nothing-IDE">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=20&duration=2000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=350&lines=%F0%9F%92%BB+Nothing+IDE;Open-Source+Code;Click+To+View+%E2%86%92" />
+    <img src="assets/card_nothingide.svg" width="100%" />
   </a>
 
   <br/><br/>

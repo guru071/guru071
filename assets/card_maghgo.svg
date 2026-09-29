@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5c4314" />
+      <stop offset="25%" stop-color="#c9a84c" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="75%" stop-color="#c9a84c" />
+      <stop offset="100%" stop-color="#8a6e27" />
+    </linearGradient>
+    <radialGradient id="g_bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#110d05" />
+      <stop offset="100%" stop-color="#050505" />
+    </radialGradient>
+  </defs>
+
+  <rect width="896" height="216" x="2" y="2" fill="url(#g_bg)" rx="16" stroke="url(#gold)" stroke-width="1.5" />
+  
+  <rect width="6" height="150" x="25" y="35" fill="url(#gold)" rx="3" />
+  
+  <text x="50" y="65" font-family="'Space Grotesk', Arial, sans-serif" font-size="32" font-weight="900" fill="#ffffff">MaghGo Platform</text>
+  <text x="50" y="95" font-family="'Space Grotesk', Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#gold)">The Premier Digital Product by GOAT'ECH</text>
+  
+  <text x="50" y="130" font-family="Arial, sans-serif" font-size="15" fill="#cccccc" font-style="italic">A highly scalable, modern digital ecosystem driving next-generation user experiences.</text>
+  <text x="50" y="165" font-family="Arial, sans-serif" font-size="14" fill="#a8862a" font-weight="bold">Core Tech: <tspan fill="#ffffff">Android, React, Python FastAPI, PostgreSQL</tspan></text>
+  
+  <!-- Interactive-looking Domain Badge on the Right -->
+  <g transform="translate(630, 40)">
+    <rect width="230" height="45" fill="#111" rx="8" stroke="#c9a84c" stroke-opacity="0.5" stroke-width="1" />
+    <text x="115" y="27" font-family="monospace" font-size="13" font-weight="bold" fill="#c9a84c" text-anchor="middle">🔗 maghgo.goatech.tech</text>
+  </g>
+</svg>
