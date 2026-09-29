@@ -232,7 +232,7 @@ I design and build modern software systems across the
 <p>
 My focus is on turning complicated product requirements into
 clean, scalable, secure, and maintainable systems that are ready
-for real-world production environments under the <b>GOAT'ECH</b> ecosystem.
+for real-world production environments under <b>GOAT'ECH (MAGH'S Technology)</b>—my core group and unified company.
 </p>
 
 <br>
