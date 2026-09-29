@@ -58,6 +58,129 @@
 
   <rect width="996" height="76" x="2" y="2" fill="url(#g_bg)" rx="16" stroke="url(#gold)" stroke-width="2" />
   <rect width="996" height="76" x="2" y="2" fill="url(#grid_bg)" rx="16" />
+  <g id="spark_anim">
+    <circle cx="63.4%" cy="4.4%" r="0.6" fill="#ffffff" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;0.86;0.15" dur="4.1s" repeatCount="indefinite" begin="3.7s"/>
+    </circle>
+    <circle cx="58.7%" cy="5.1%" r="0.5" fill="#f9ebbb" opacity="0.13">
+      <animate attributeName="opacity" values="0.13;0.79;0.13" dur="4.2s" repeatCount="indefinite" begin="3.0s"/>
+    </circle>
+    <circle cx="23.2%" cy="58.6%" r="1.0" fill="#fff3ad" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;0.64;0.15" dur="3.0s" repeatCount="indefinite" begin="4.0s"/>
+    </circle>
+    <circle cx="22.7%" cy="75.3%" r="0.5" fill="#ffffff" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;0.61;0.1" dur="4.9s" repeatCount="indefinite" begin="1.8s"/>
+    </circle>
+    <circle cx="72.1%" cy="53.5%" r="1.2" fill="#c9a84c" opacity="0.17">
+      <animate attributeName="opacity" values="0.17;0.75;0.17" dur="4.9s" repeatCount="indefinite" begin="2.8s"/>
+    </circle>
+    <circle cx="57.4%" cy="69.6%" r="0.4" fill="#ffffff" opacity="0.06">
+      <animate attributeName="opacity" values="0.06;0.59;0.06" dur="4.1s" repeatCount="indefinite" begin="1.4s"/>
+    </circle>
+    <circle cx="38.5%" cy="45.5%" r="1.1" fill="#ffffff" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;0.78;0.15" dur="3.8s" repeatCount="indefinite" begin="1.8s"/>
+    </circle>
+    <circle cx="60.5%" cy="18.4%" r="1.0" fill="#fff3ad" opacity="0.2">
+      <animate attributeName="opacity" values="0.2;0.76;0.2" dur="3.8s" repeatCount="indefinite" begin="1.9s"/>
+    </circle>
+    <circle cx="67.7%" cy="82.9%" r="1.0" fill="#fff3ad" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;0.61;0.1" dur="4.1s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+    <circle cx="89.7%" cy="56.4%" r="1.0" fill="#fff3ad" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.76;0.18" dur="4.1s" repeatCount="indefinite" begin="2.5s"/>
+    </circle>
+    <circle cx="27.4%" cy="25.7%" r="0.8" fill="#fff3ad" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.66;0.18" dur="4.3s" repeatCount="indefinite" begin="2.9s"/>
+    </circle>
+    <circle cx="97.7%" cy="15.3%" r="0.8" fill="#f9ebbb" opacity="0.07">
+      <animate attributeName="opacity" values="0.07;0.56;0.07" dur="6.8s" repeatCount="indefinite" begin="4.3s"/>
+    </circle>
+    <circle cx="59.3%" cy="38.9%" r="0.9" fill="#ffffff" opacity="0.13">
+      <animate attributeName="opacity" values="0.13;0.88;0.13" dur="5.3s" repeatCount="indefinite" begin="1.3s"/>
+    </circle>
+    <circle cx="67.4%" cy="53.5%" r="0.6" fill="#c9a84c" opacity="0.12">
+      <animate attributeName="opacity" values="0.12;0.68;0.12" dur="6.2s" repeatCount="indefinite" begin="0.6s"/>
+    </circle>
+    <circle cx="95.3%" cy="75.1%" r="0.8" fill="#fff3ad" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.7;0.18" dur="3.5s" repeatCount="indefinite" begin="3.1s"/>
+    </circle>
+    <circle cx="16.7%" cy="75.2%" r="0.8" fill="#ffffff" opacity="0.05">
+      <animate attributeName="opacity" values="0.05;0.63;0.05" dur="6.9s" repeatCount="indefinite" begin="2.7s"/>
+    </circle>
+    <circle cx="12.7%" cy="36.8%" r="1.2" fill="#ffffff" opacity="0.09">
+      <animate attributeName="opacity" values="0.09;0.73;0.09" dur="7.0s" repeatCount="indefinite" begin="1.2s"/>
+    </circle>
+    <circle cx="10.2%" cy="48.7%" r="0.5" fill="#fff3ad" opacity="0.07">
+      <animate attributeName="opacity" values="0.07;0.69;0.07" dur="6.8s" repeatCount="indefinite" begin="3.8s"/>
+    </circle>
+    <circle cx="27.4%" cy="85.8%" r="0.7" fill="#c9a84c" opacity="0.16">
+      <animate attributeName="opacity" values="0.16;0.58;0.16" dur="4.1s" repeatCount="indefinite" begin="2.7s"/>
+    </circle>
+    <circle cx="40.3%" cy="66.5%" r="0.7" fill="#ffffff" opacity="0.09">
+      <animate attributeName="opacity" values="0.09;0.53;0.09" dur="7.5s" repeatCount="indefinite" begin="2.3s"/>
+    </circle>
+    <circle cx="58.5%" cy="24.1%" r="0.6" fill="#c9a84c" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.86;0.08" dur="3.4s" repeatCount="indefinite" begin="3.2s"/>
+    </circle>
+    <circle cx="8.8%" cy="24.8%" r="0.9" fill="#f9ebbb" opacity="0.19">
+      <animate attributeName="opacity" values="0.19;0.73;0.19" dur="4.1s" repeatCount="indefinite" begin="0.7s"/>
+    </circle>
+    <circle cx="25.3%" cy="47.4%" r="0.7" fill="#ffffff" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;0.66;0.1" dur="3.5s" repeatCount="indefinite" begin="3.3s"/>
+    </circle>
+    <circle cx="66.6%" cy="96.5%" r="0.5" fill="#fff3ad" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.6;0.18" dur="5.0s" repeatCount="indefinite" begin="1.7s"/>
+    </circle>
+    <circle cx="53.5%" cy="15.5%" r="0.5" fill="#ffffff" opacity="0.06">
+      <animate attributeName="opacity" values="0.06;0.82;0.06" dur="5.3s" repeatCount="indefinite" begin="4.4s"/>
+    </circle>
+    <circle cx="6.9%" cy="97.9%" r="1.1" fill="#f9ebbb" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.57;0.18" dur="7.8s" repeatCount="indefinite" begin="4.6s"/>
+    </circle>
+    <circle cx="48.2%" cy="85.0%" r="1.1" fill="#f9ebbb" opacity="0.11">
+      <animate attributeName="opacity" values="0.11;0.87;0.11" dur="3.8s" repeatCount="indefinite" begin="0.0s"/>
+    </circle>
+    <circle cx="29.4%" cy="68.9%" r="1.0" fill="#fff3ad" opacity="0.12">
+      <animate attributeName="opacity" values="0.12;0.58;0.12" dur="6.9s" repeatCount="indefinite" begin="3.3s"/>
+    </circle>
+    <circle cx="95.0%" cy="57.6%" r="0.8" fill="#fff3ad" opacity="0.14">
+      <animate attributeName="opacity" values="0.14;0.7;0.14" dur="6.7s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="7.5%" cy="50.8%" r="1.1" fill="#fff3ad" opacity="0.18">
+      <animate attributeName="opacity" values="0.18;0.66;0.18" dur="3.3s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="57.6%" cy="5.8%" r="0.5" fill="#c9a84c" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="6.3s" repeatCount="indefinite" begin="2.8s"/>
+    </circle>
+    <circle cx="24.9%" cy="40.0%" r="0.9" fill="#f9ebbb" opacity="0.16">
+      <animate attributeName="opacity" values="0.16;0.53;0.16" dur="4.5s" repeatCount="indefinite" begin="1.6s"/>
+    </circle>
+    <circle cx="61.6%" cy="56.0%" r="0.5" fill="#ffffff" opacity="0.07">
+      <animate attributeName="opacity" values="0.07;0.64;0.07" dur="5.7s" repeatCount="indefinite" begin="2.5s"/>
+    </circle>
+    <circle cx="86.4%" cy="37.5%" r="0.5" fill="#ffffff" opacity="0.14">
+      <animate attributeName="opacity" values="0.14;0.89;0.14" dur="7.2s" repeatCount="indefinite" begin="3.5s"/>
+    </circle>
+    <circle cx="66.1%" cy="55.2%" r="1.1" fill="#fff3ad" opacity="0.09">
+      <animate attributeName="opacity" values="0.09;0.86;0.09" dur="3.5s" repeatCount="indefinite" begin="4.4s"/>
+    </circle>
+    <circle cx="28.1%" cy="60.1%" r="1.0" fill="#ffffff" opacity="0.09">
+      <animate attributeName="opacity" values="0.09;0.7;0.09" dur="4.0s" repeatCount="indefinite" begin="3.2s"/>
+    </circle>
+    <circle cx="10.9%" cy="42.7%" r="0.6" fill="#f9ebbb" opacity="0.15">
+      <animate attributeName="opacity" values="0.15;0.6;0.15" dur="3.0s" repeatCount="indefinite" begin="3.9s"/>
+    </circle>
+    <circle cx="55.0%" cy="43.1%" r="0.4" fill="#c9a84c" opacity="0.19">
+      <animate attributeName="opacity" values="0.19;0.72;0.19" dur="3.4s" repeatCount="indefinite" begin="4.4s"/>
+    </circle>
+    <circle cx="57.9%" cy="16.2%" r="0.5" fill="#c9a84c" opacity="0.17">
+      <animate attributeName="opacity" values="0.17;0.84;0.17" dur="4.5s" repeatCount="indefinite" begin="4.5s"/>
+    </circle>
+    <circle cx="22.2%" cy="26.0%" r="0.5" fill="#fff3ad" opacity="0.11">
+      <animate attributeName="opacity" values="0.11;0.75;0.11" dur="6.9s" repeatCount="indefinite" begin="4.4s"/>
+    </circle>
+  </g>
+
   
   
   <!-- === GOAT FACE === -->
