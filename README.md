@@ -6,11 +6,11 @@
   <img src="assets/profile_image.svg" width="300" height="300" />
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=Founder+%26+CEO+of+GOAT'ECH+%26+MAGH'S+Technology;Full-Stack+Software+Architect;Building+the+Future+of+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=500&color=c9a84c&center=true&vCenter=true&repeat=true&width=800&lines=Founder+%26+CEO+of+GOAT%27ECH+%26+MAGH%27S+Technology;Full-Stack+Software+Architect;Building+the+Future+of+Digital+Experiences" />
 
   <p>
     <a href="https://guruprasath.goatech.tech"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=c9a84c&labelColor=111111" /></a>
-    <a href="https://goatech.tech"><img src="https://img.shields.io/badge/GOAT'ECH-c9a84c?style=for-the-badge&labelColor=111111" /></a>
+    <a href="https://goatech.tech"><img src="https://img.shields.io/badge/GOAT%27ECH-c9a84c?style=for-the-badge&labelColor=111111" /></a>
     <a href="https://maghgo.goatech.tech"><img src="https://img.shields.io/badge/MaghGo-111111?style=for-the-badge&logo=next.js&logoColor=c9a84c" /></a>
   </p>
 
