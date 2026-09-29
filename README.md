@@ -50,7 +50,7 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 ### What I focus on
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Product+development;🌐+Web+applications;🤖+AI+&+automation;🔧+Software+engineering;🎨+Modern+UI/UX;🧪+Technology+experiments;📱+Digital+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Product+development;🌐+Web+applications;🤖+AI+%26+automation;🔧+Software+engineering;🎨+Modern+UI/UX;🧪+Technology+experiments;📱+Digital+products" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 <td width="50%" valign="top">
 
 <a href="https://maghgo.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🛒+MaghGo;Modern+Digital+Product;Click+To+Open+→" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🛒+MaghGo;Modern+Digital+Product;Click+To+Open+%E2%86%92" />
 </a>
 
 </td>
@@ -80,7 +80,7 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 <td width="50%" valign="top">
 
 <a href="https://tnvoting.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🗳️+TN+Voting;Secure+Voting+Workflows;Click+To+Open+→" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🗳️+TN+Voting;Secure+Voting+Workflows;Click+To+Open+%E2%86%92" />
 </a>
 
 </td>
@@ -90,7 +90,7 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 <td width="50%" valign="top">
 
 <a href="https://aqua.goatech.tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🌊+Aqua;Technology+Ecosystem;Click+To+Open+→" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🌊+Aqua;Technology+Ecosystem;Click+To+Open+%E2%86%92" />
 </a>
 
 </td>
@@ -98,7 +98,7 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 <td width="50%" valign="top">
 
 <a href="https://github.com/guru071">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=💻+Nothing+IDE;Modern+Development;Click+To+View+→" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=💻+Nothing+IDE;Modern+Development;Click+To+View+%E2%86%92" />
 </a>
 
 </td>
@@ -117,13 +117,13 @@ I am **GURUPRASATH D**, founder and CEO of **GOAT'ECH** and **MAGH'S Technology*
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=GURUPRASATH&fontSize=16&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=GOAT'ECH&fontSize=20&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=3000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++|++++BUILD++++|++++EXPERIMENT" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=3000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=800&lines=IDEA++++%7C++++BUILD++++%7C++++EXPERIMENT" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=IMPROVE&fontSize=18&fontColor=111111" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=⬇" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=c9a84c&center=true&vCenter=true&width=200&lines=%E2%AC%87" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=CREATE&fontSize=22&fontColor=111111" />
 </div>
 
