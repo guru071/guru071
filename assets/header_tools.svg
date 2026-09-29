@@ -106,6 +106,5 @@
     </g>
   </g>
   
-  <text x="500" y="48" font-family="'Space Grotesk', Arial, sans-serif" font-size="28" font-weight="900" fill="url(#gold)" text-anchor="middle" filter="url(#bg_glow)">🛠 CORE LANGUAGES & TOOLS</text>
-  <text x="500" y="48" font-family="'Space Grotesk', Arial, sans-serif" font-size="28" font-weight="900" fill="url(#gold)" text-anchor="middle">🛠 CORE LANGUAGES & TOOLS</text>
+  <text x="500" y="48" font-family="'Space Grotesk', Arial, sans-serif" font-size="28" font-weight="900" fill="url(#gold)" text-anchor="middle">🛠 CORE LANGUAGES &amp; TOOLS</text>
 </svg>

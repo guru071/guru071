@@ -1,5 +1,7 @@
 <div align="center">
   
+  <img src="assets/founder_photo.jpg" width="200" height="200" style="border-radius:50%;" />
+  <br/>
   <img src="assets/hero_gold.svg" width="100%" />
   <br/><br/>
 
