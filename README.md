@@ -75,43 +75,25 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=40&text=%F0%9F%9A%80%20PROJECT%20ECOSYSTEM&fontSize=20&fontColor=111111" />
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 <a href="https://maghgo.goatech.tech">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🛒+MaghGo;Modern+Digital+Product;Click+To+Open+%E2%86%92" />
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
 <a href="https://tnvoting.goatech.tech">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🗳️+TN+Voting;Secure+Voting+Workflows;Click+To+Open+%E2%86%92" />
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 <a href="https://aqua.goatech.tech">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=🌊+Aqua;Technology+Ecosystem;Click+To+Open+%E2%86%92" />
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
 <a href="https://github.com/guru071">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=400&lines=💻+Nothing+IDE;Modern+Development;Click+To+View+%E2%86%92" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c9a84c,50:fff3ad,100:c9a84c&height=30&text=More%20projects&fontSize=16&fontColor=111111" />
@@ -207,10 +189,7 @@
 <!--                    PROFILE INTRO                          -->
 <!-- ========================================================= -->
 
-<table align="center" width="96%">
-<tr>
-
-<td width="58%" valign="top">
+<div align="center">
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=3500&pause=1000&color=c9a84c&center=true&vCenter=true&repeat=true&width=600&lines=Engineering+With+Purpose;Designing+modern+software+systems;Frontend,+Backend,+Cloud,+Data,+AI;Clean,+scalable,+secure+architecture" />
@@ -218,16 +197,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=ffdf73&center=true&vCenter=true&repeat=true&width=600&lines=Frontend:+React,+Next.js,+TypeScript;Backend:+Python,+Node.js,+Express;Cloud:+AWS,+Docker,+Linux;AI:+Gemini,+RAG,+Automation" />
 </div>
 
-</td>
-
-<td width="42%" align="center">
-
 <img width="960" height="960" alt="Profile" src="assets/profile_image.svg" />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <!-- ========================================================= -->
 <!--                    TECHNOLOGY MATRIX                      -->
